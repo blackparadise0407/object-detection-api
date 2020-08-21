@@ -1,7 +1,13 @@
 *.h5
 *.weights
 *.tar
+*.tf.index
 *.tfrecord
+*.tf.data-00000-of-00001
+/detections/*.jpg
+/detections/*.jpeg
+/detections/*.avi
+/detections/*.png
 /checkpoints/*
 /serving/*
 /logs/
