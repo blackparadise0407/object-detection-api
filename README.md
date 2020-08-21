@@ -1,4 +1,4 @@
-# ALL CREDITS GO TO [THE AI GUYS](https://github.com/theAIGuysCode)
+# ALL CREDITS GO TO [The AI guy](https://github.com/theAIGuysCode)
 ## Getting started 
 
 #### Conda (Recommended)
