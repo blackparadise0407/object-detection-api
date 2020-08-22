@@ -22,8 +22,9 @@ pip install -r requirements.txt
 pip install -r requirements-gpu.txt
 ```
 
-#### !ATTENTION: BEFORE RUNNING THE APP, PLEASE PUT THE WEIGHT IN "weights" FOLDER FIRST, AND RENAME IT yolov3.weights, OTHERWISE YOU WILL HAVE TO CONFIG THE PATH TO WEIGHT IN APP.PY
-
+#### !ATTENTION: BEFORE RUNNING THE APP, PLEASE PUT THE WEIGHT IN "weights" FOLDER FIRST, AND RENAME IT yolov3.weights, OTHERWISE YOU WILL HAVE TO CONFIG THE PATH TO WEIGHT IN APP.PY 
+### BEFORE RUNNING !!!IMPORTANT
+change the classes before running load_weigths.py or app.py
 #### Running
 ```bash
 python app.py
